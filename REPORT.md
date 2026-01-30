@@ -104,8 +104,7 @@ SQLhub demonstrates how traditional version control concepts can be elegantly im
 SQLhub/
 ├── main.py          # Main IDE application
 ├── create.py        # Database schema initialization script
-├── README.md        # Project overview
-└── .gitignore       # Git ignore file
+└── README.md        # Project overview
 ```
 
 ## Module and Function Documentation
